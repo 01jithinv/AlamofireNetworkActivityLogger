@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version = '3.5.0'
   s.license = 'MIT'
   s.summary = 'Network request logger for Alamofire'
-  s.homepage = 'https://github.com/01jithinv/AlamofireNetworkActivityLogger'
+  s.homepage = 'https://github.com/konkab/AlamofireNetworkActivityLogger'
   s.social_media_url = 'https://www.linkedin.com/in/konstantinkabanov'
   s.authors = { 'Konstantin Kabanov' => 'fever9@gmail.com' }
 
