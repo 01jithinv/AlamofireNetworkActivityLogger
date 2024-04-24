@@ -14,7 +14,7 @@ Network activity logger for Alamofire.
 
 ## Dependencies
 
-- [Alamofire 5.4.0+](https://github.com/Alamofire/Alamofire)
+- [Alamofire 5.9.1](https://github.com/Alamofire/Alamofire)
 
 ## Installation
 
